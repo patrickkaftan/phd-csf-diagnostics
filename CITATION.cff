@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use materials from this repository, please cite it as below."
+type: software
+title: "Knowledge-Based Decision Support in CSF Diagnostics – Design Principles for an Integrated System Architecture Based on Clinical Guidelines and Routine Data"
+abstract: >
+  Research documentation for a doctoral project (Dr. rer. nat.) at Bielefeld University,
+  Medical School OWL. The project develops design principles for an AI-based framework
+  integrating evidence-based medical knowledge from clinical practice guidelines with
+  real-world decision logic from clinical routine data, operationalised at the point of care.
+  Follows the Design Science Research paradigm. Includes SLR protocol (PRISMA-ScR),
+  MKG annotation prompts, and CDSS requirements specification.
+authors:
+  - family-names: Kaftan
+    given-names: Patrick
+    email: patrick.kaftan@outlook.com
+    affiliation: "Bielefeld University, Medical School OWL"
+repository-code: "https://github.com/patrickkaftan/phd-csf-diagnostics"
+license: CC-BY-4.0
+keywords:
+  - cerebrospinal fluid diagnostics
+  - design science research
+  - clinical practice guideline
+  - electronic health record
+  - computer interpretable guideline
+  - medical knowledge graph
+  - clinical pathway software
+  - clinical decision support system
+date-released: "2026-06-30"
+version: "0.1.0"
