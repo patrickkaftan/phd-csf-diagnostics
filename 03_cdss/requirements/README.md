@@ -19,4 +19,4 @@ Requirements specification (Lastenheft) for the CSF Diagnostics Dashboard — th
 | M3 | Proteins / immunology — quotients, Reiber diagram | Implemented |
 | M4 | Findings header — ICD-10, OPS, admission data | Implemented |
 | M5 | Differential diagnosis matrix | Planned (Eval Cycle 2) |
-| M6 | ML pre-assessment | Planned (Eval Cycle 2) |
+| M6 | Causal inference | Planned (Eval Cycle 2) |
