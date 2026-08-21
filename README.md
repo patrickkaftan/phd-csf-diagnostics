@@ -31,7 +31,7 @@ phd-csf-diagnostics/
 ├── 01_scoping-review/      # Publication 1 – Scoping Review (Eval Cycle 1, 2026)
 │   ├── protocol/           # SLR protocol (PRISMA-ScR), registered before first search
 │   └── search-strings/     # Database-specific search strings + hit counts
-|   └── ai-screening/       # LLM prompt used for ai-supported screening
+|   └── screening/          # Human/AI parallel title-abstract screening (files, prompt, execution log)
 |   └── data-charting/      # Charting Table
 |   └── references/         # List of references
 │
